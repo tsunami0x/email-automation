@@ -2,10 +2,10 @@
 simple python script for email-automation, extract data from an excel-sheet (email, name columns) and apply email-automation on it
 # installation:
 ```
-git clone https://github.com/tsunami0x/email-automation.git
-cd email-automation
 pip install pandas
 pip install yagmail
+git clone https://github.com/tsunami0x/email-automation.git
+cd email-automation
 python email-automation.py
 ```
 # usage:
