@@ -1,5 +1,5 @@
-# email-automation
-simple python script for email-automation, extract data from an excel-sheet (email, name columns) and apply email-automation on it
+# gmail-automation
+simple python script for gmail-automation, extract data from an excel-sheet (email, name columns) and apply email-automation on it
 # installation:
 ```
 pip install pandas
